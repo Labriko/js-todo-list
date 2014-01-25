@@ -1,0 +1,28 @@
+*:not(i) {
+	font-size: 20px;
+	font-family: Helvetica;
+	margin-left: 10px;
+}
+.acted {
+	text-decoration: line-through;
+	color: grey;
+}
+li:hover {
+	color: red;
+}
+img {
+	position: absolute;
+	margin-left: 0px;
+	opacity: 0.4;
+}
+body {
+	background-image: url(http://s09.radikal.ru/i182/1401/35/1d3d2a73b3cf.jpg);
+}
+/*.pure-button {
+	font-size: 10%;
+}*/
+/*.checkbox {
+	float: left;
+	position: relative;
+	left: 10px;
+}*/
